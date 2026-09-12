@@ -14,7 +14,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ## Schema 
 markdown
-'''sql
+***sql
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
 (
@@ -31,4 +31,4 @@ CREATE TABLE netflix
     listed_in    VARCHAR(250),
     description  VARCHAR(550)
 );
-'''
+***
