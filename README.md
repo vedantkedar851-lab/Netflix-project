@@ -230,4 +230,31 @@ Objective: Categorize content as 'Bad' if it contains 'kill' or 'violence' and '
 
 • **Content Categorization:** Grouping titles using relevant keywords helps identify and understand the different types of content available on Netflix.
 
+## Skills used 
+
+• SQL Query Writing 
+
+• PostgreSQL
+
+• Data Analysis
+
+• Business Analysis 
+
+• Data cleaning 
+
+• Problem solving
+
+• Joins & Subqueries 
+
+• Data Analysis using SQL
+
+# Tools used 
+• Microsoft Excel
+
+• PostgreSQL
+
+• Kaggle
+
+• GitHub
+
    
